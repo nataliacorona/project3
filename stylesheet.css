@@ -1,0 +1,29 @@
+
+body{background-image: url(images/back.jpeg) ; margin: 0 5%; font-weight: 100; margin-top: 10px;}
+                h1 {font-size: 2em;
+                    border: 3px #A07178 dashed;
+                    padding: 2%;
+                    color: #E6ccbe;
+                    background-color: #A07178;
+                    font-family: fantasy;
+                    text-align: center;}
+
+                h2 {font-family: 'Splash', cursive;
+                    font-size: 4em;
+                    color:purple;
+                    text-align: center;}
+
+                h3 {font-size: 0.9em;
+                    border:3px #776274 solid;
+                    padding: 2%;
+                    background-color: #e6ccbe;
+                    text-align: center; 
+                    font-family: fantasy}
+                
+                a {text-decoration: none; }
+                   a:link{color: #A07178; }             a:hover{color:; background-color:#ffd9d9;}
+                
+                p {font-family:fantasy;
+                color:purple;}
+
+
